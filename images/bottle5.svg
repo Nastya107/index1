@@ -1,0 +1,12 @@
+<svg width="143" height="184" viewBox="0 0 143 184" fill="none" xmlns="http://www.w3.org/2000/svg">
+<ellipse rx="71.2329" ry="68.2815" transform="matrix(-1 0 0 1 71.233 114.969)" fill="#AAE0FF"/>
+<rect width="43.7753" height="38.9301" transform="matrix(-1 0 0 1 93.123 12.5469)" fill="#AAE0FF"/>
+<rect width="69.0548" height="13.5468" rx="6.77342" transform="matrix(-1 0 0 1 105.764 0)" fill="#AAE0FF"/>
+<path d="M9.15527e-05 114.761C9.15527e-05 152.473 31.8921 183.044 71.233 183.044C110.574 183.044 142.466 152.473 142.466 114.761C142.466 77.049 128.502 114.761 89.1616 114.761C72.6152 114.761 51.7857 122.013 36.0181 114.761C14.2964 104.77 9.15527e-05 92.9102 9.15527e-05 114.761Z" fill="url(#paint0_linear_253_49)"/>
+<defs>
+<linearGradient id="paint0_linear_253_49" x1="71.233" y1="98" x2="71.233" y2="183.044" gradientUnits="userSpaceOnUse">
+<stop stop-color="#7D0AD7"/>
+<stop offset="1" stop-color="#20EFA5"/>
+</linearGradient>
+</defs>
+</svg>

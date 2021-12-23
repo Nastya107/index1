@@ -1,0 +1,508 @@
+
+  .claw
+{
+width: 223px;
+height: 354px;
+display: block;
+margin-top: -300px;
+margin-left: 1170px;
+position: absolute;
+background: url('images/claw.svg');
+animation: claw .9s steps(1) infinite;
+}
+@keyframes claw {
+  0% {background-position: 0px top}
+  20% {background-position: -223px top}
+  40% {background-position: -446px top}
+  60% {background-position: -669px top}
+  80% {background-position: -892px top}
+}
+
+
+.potions
+{
+position: absolute;
+width: 125px;
+height: 309px;
+display: block;
+margin-top: -570px;
+margin-left: 530px;
+background: url('images/Group 188.svg');
+animation: potions .9s steps(1) infinite;
+}
+@keyframes potions {
+  0% {background-position: 0px top}
+  20% {background-position: -125px top}
+  40% {background-position: -250px top}
+  60% {background-position: -375px top}
+  80% {background-position: -500px top}
+}
+
+.potions2
+{
+width: 144px;
+height: 195px;
+display: block;
+margin-top: 200px;
+margin-left: 1200px;
+position: absolute;
+background: url('images/potions2.svg');
+animation: potions2 .9s steps(1) infinite;
+}
+@keyframes potions2 {
+  0% {background-position: 0px top}
+  20% {background-position: -144px top}
+  40% {background-position: -288px top}
+  60% {background-position: -432px top}
+  80% {background-position: -576px top}
+}
+
+.potions3
+{
+width: 256px;
+height: 375px;
+display: block;
+margin-top: 280px;
+margin-left: 832px;
+position: absolute;
+background: url('images/potions3.svg');
+animation: potions3 .9s steps(1) infinite;
+}
+
+@keyframes potions3 {
+  0% {background-position: 0px top}
+  20% {background-position: -256px top}
+  40% {background-position: -512px top}
+  60% {background-position: -768px top}
+  80% {background-position: -1024px top}
+}
+
+.potions4
+{
+width: 265px;
+height: 149px;
+display: block;
+margin-top: -50px;
+margin-left: 955px;
+position: absolute;
+background: url('images/potions4.svg');
+animation: potions4 .9s steps(1) infinite;
+}
+
+@keyframes potions4 {
+  0% {background-position: 0px top}
+  20% {background-position: -265px top}
+  40% {background-position: -530px top}
+  60% {background-position: -795px top}
+  80% {background-position: -1060px top}
+}
+
+.potions5
+{
+position: absolute;
+width: 210px;
+height: 516px;
+display: block;
+margin-top: -335px;
+margin-left: 435px;
+background: url('images/potions5.svg');
+animation: potions5 .9s steps(1) infinite;
+}
+
+@keyframes potions5 {
+  0% {background-position: 0px top}
+  20% {background-position: -210px top}
+  40% {background-position: -420px top}
+  60% {background-position: -630px top}
+  80% {background-position: -840px top}
+}
+
+.potions6
+{
+width: 190px;
+height: 492px;
+display: block;
+margin-top: -130px;
+margin-left: 149px;
+position: absolute;
+background: url('images/potions6.svg');
+animation: potions6 .9s steps(1) infinite;
+}
+
+@keyframes potions6 {
+  0% {background-position: 0px top}
+  20% {background-position: -190px top}
+  40% {background-position: -380px top}
+  60% {background-position: -570px top}
+  80% {background-position: -760px top}
+}
+.diagramma
+{
+width: 281px;
+height: 149px;
+display: block;
+margin-top: -1580px;
+margin-left: 926px;
+position: absolute;
+background: url('images/diagramma.svg');
+animation: diagramma .9s steps(1) infinite;
+}
+
+@keyframes diagramma {
+  0% {background-position: 0px top}
+  20% {background-position: -281px top}
+  40% {background-position: -562px top}
+  60% {background-position: -843px top}
+  80% {background-position: -1124px top}
+}
+@font-face{
+  font-family: "Alice Regular";
+  src: url(fonts/Alice-Regular.ttf);
+}
+
+body {
+    background-color: black;
+   }
+
+p, p1,p2,p3,p4,p5,p6,p7{
+  font-family: "Alice Regular"
+}
+.box_heading
+{
+
+  height:auto;
+  background-color: white;
+  opacity: 90%;
+  text-align: center;
+padding: 45px;
+margin-left: 40px;
+margin-right: 40px;
+}
+
+.heading
+{
+  font-size: 50px;
+  margin: 0 auto;
+
+}
+.heading1
+{
+  font-size: 36px;
+  margin-top: 74px;
+}
+.pipe1
+{
+  width: 1114px;
+  height: 797px;
+  background: url('images/pipe1.svg');
+  margin-left: 180px;
+}
+
+.bottles
+{
+	width: 1265px;
+	height: 310px;
+  margin-right: 80px;
+  margin-left:80px;
+  position: absolute;
+}
+.bottle1, .bottle2, .bottle3, .bottle4, .bottle5
+{
+
+	display: inline-block;
+  margin-left: 41px;
+  margin-right: 41px;
+  margin-top: -15px;
+  }
+.bottle1
+{
+background: url('images/bottle1.svg');
+width: 131px;
+height: 254px;
+}
+.bottle2
+{
+background: url('images/bottle2.svg');
+width: 191px;
+height: 253px;
+padding-top: -100px;
+}
+.bottle3
+{
+background: url('images/bottle3.svg');
+width: 210px;
+height: 216px;
+
+}
+.bottle4
+{
+background: url('images/bottle4.svg');
+width: 156px;
+height: 201px;
+}
+.bottle5
+{
+background: url('images/bottle5.svg');
+width: 143px;
+height: 184px;
+}
+.conveyor
+{
+  background: url('images/conveyor.svg');
+  width: 1440px;
+  height: 90px;
+  margin-top: 240px;
+}
+.cookingrack
+{
+  background: url('images/cooking rack.svg');
+position: absolute;
+width: 400px;
+height: 400px;
+margin-top: -600px;
+margin-left: 31px;
+}
+.barometr
+{
+  background: url('images/barometr.svg');
+width: 390px;
+height: 345px;
+margin-top: -650px;
+margin-left: 780px;
+}
+.taimer
+{
+  background: url('images/taimer.svg');
+width: 162px;
+height: 231px;
+margin-top: -350px;
+margin-left: 1200px;
+}
+.press
+{
+  background: url('images/press.svg');
+width: 482px;
+height: 426px;
+margin-top: 375px;
+margin-left: 200px;
+position: absolute;
+}
+.diagrammablock
+{
+background: url('images/diagramma block.svg');
+width: 424px;
+height: 262px;
+margin-top: 655px;
+margin-left: 800px;
+position: absolute;
+}
+.pipe2
+{
+background: url('images/pipe2.svg');
+width: 905px;
+height: 406px;
+margin-top: 800px;
+margin-left: 300px;
+}
+.leaves
+{
+background: url('images/leaves.svg');
+width: 194px;
+height: 228px;
+margin-top: -340px;
+margin-left: 300px;
+}
+.chopper
+{
+  background: url('images/chopper.svg');
+  width: 252px;
+  height: 155px;
+  margin-top: 0px;
+  margin-left: 490px;
+  }
+
+  .pipe3
+  {
+    background: url('images/pipe3.svg');
+    width: 1090px;
+    height: 847px;
+    margin-top: 130px;
+    margin-left: 200px;
+}
+.machinepotions
+{
+  background: url('images/machinepotions.svg');
+  width: 424px;
+  height: 299px;
+  margin-top: -880px;
+  margin-left: 875px;
+}
+.metr
+{
+  background: url('images/metr.svg');
+  width: 113px;
+  height: 346px;
+  margin-top: -450px;
+  margin-left: 175px;
+}
+
+.potions7
+{
+position: absolute;
+width: 86px;
+height: 177px;
+display: block;
+margin-top: 190px;
+margin-left: 1235px;
+background: url('images/potions7.svg');
+animation: potions7 .9s steps(1) infinite;
+}
+
+@keyframes potions7 {
+  0% {background-position: 0px top}
+  20% {background-position: -86px top}
+  40% {background-position: -172px top}
+  60% {background-position: -258px top}
+  80% {background-position: -344px top}
+}
+.potions8
+{
+width: 143px;
+height: 202px;
+display: block;
+margin-top: 240px;
+margin-left: 955px;
+background: url('images/potions8.svg');
+animation: potions8 .9s steps(1) infinite;
+}
+
+@keyframes potions8 {
+  0% {background-position: 0px top}
+  20% {background-position: -143px top}
+  40% {background-position: -286px top}
+  60% {background-position: -429px top}
+  80% {background-position: -572px top}
+}
+.fire
+{
+width: 402px;
+height: 313px;
+display: block;
+margin-top: 0px;
+margin-left: 950px;
+background: url('images/fire.svg');
+}
+.bak
+{
+width: 289px;
+height: 477px;
+display: block;
+margin-top: -445px;
+margin-left: 550px;
+background: url('images/bak.svg');
+}
+.square
+{
+width: 70px;
+height: 70px;
+background: #EA61E5;
+margin-left: 1060px;
+margin-top: -250px;
+position: absolute;
+animation: square1 4s infinite;
+}
+
+@keyframes square1 {
+from {background-color: #EA61E5;}
+to {background-color: #59C2FD;}
+}
+.square1
+{
+width: 70px;
+height: 70px;
+border-radius: 50%;
+background: #EA61E5;
+margin-left: 1060px;
+margin-top: -250px;
+position: absolute;
+animation: square1 4s infinite;
+}
+
+@keyframes square1 {
+from {background-color: #59C2FD;}
+to {background-color: #EA61E5;}
+}
+.phrase1, .phrase2, .phrase3, .phrase4, .phrase5, .phrase6, .phrase7
+{
+  width: 330px;
+  height: 180px;
+  background-color: white;
+  opacity: 90%;
+  padding: 20px;
+  border-radius: 10px;
+  }
+
+  p1, p2, p3, p4, p5, p6, p7
+{
+    font-size: 28px;
+      margin: 0px;
+}
+.number1, .number2, .number3, .number4, .number5, .number6, .number7
+{
+  font-size: 70px;
+  margin: 0px;
+}
+.phrase1
+  {
+    margin-top: -2650px;
+    margin-left: 70px;
+    }
+.phrase2
+{
+  margin-top: -270px;
+  margin-left: 900px;
+  }
+.phrase3
+  {
+    margin-top: 600px;
+    margin-left: 1000px;
+    }
+.phrase4
+  {
+    margin-top: -490px;
+    margin-left: 400px;
+    }
+.phrase5
+    {
+    margin-top: 300px;
+    margin-left: 100px;
+    height: 270px;
+    }
+.phrase6
+    {
+    margin-top: 0px;
+    margin-left: 800px;
+    height: 280px;
+    }
+.phrase7
+    {
+    margin-top: 200px;
+    margin-left: 750px;
+    height: 240px;
+    }
+.futer
+{
+  width: 850px;
+  height: 100px;
+  background: #20EFA5;
+  margin-top: 900px;
+  text-align: center;
+  margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+}
+ p7
+{
+  font-size: 18px;
+  text-align: center;
+}

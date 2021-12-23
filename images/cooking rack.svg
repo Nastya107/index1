@@ -1,0 +1,26 @@
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="114.012" y="54.5451" width="136.946" height="151.389" fill="#4B4242"/>
+<rect x="45.4805" y="205.934" width="353.91" height="193.334" fill="#4B4242"/>
+<rect x="96.6421" y="41.7965" width="172.202" height="12.7485" fill="#7D0AD7"/>
+<path d="M74.3994 0.25H290.514L268.79 41.7965H96.2362L74.3994 0.25Z" fill="#4B4242"/>
+<rect x="17.5811" y="232.74" width="27.8986" height="48.2054" fill="#4B4242"/>
+<rect x="17.5811" y="291.246" width="27.8986" height="48.2054" fill="#4B4242"/>
+<rect x="250.961" y="219.194" width="139.153" height="83.6053" rx="41.8026" fill="white"/>
+<ellipse cx="182.51" cy="141.878" rx="53.958" ry="54.2666" fill="#4B4242"/>
+<path d="M228.325 141.878C228.325 167.323 207.815 187.949 182.516 187.949C157.216 187.949 136.707 167.323 136.707 141.878C136.707 116.434 157.216 95.807 182.516 95.807C207.815 95.807 228.325 116.434 228.325 141.878Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M221.716 136.898C219.792 121.668 209.138 108.288 193.549 103.716L182.479 141.892L221.716 136.898Z" fill="#59C2FD"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M166.651 105.437C152.686 111.574 142.928 125.581 142.928 141.878H182.484L193.66 103.733C190.116 102.686 186.365 102.124 182.484 102.124C176.854 102.124 171.499 103.306 166.651 105.437Z" fill="#20EFA5"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M182.484 141.907L221.723 136.844C221.932 138.502 222.04 140.192 222.04 141.907C222.04 155.862 214.895 168.139 204.084 175.24L182.484 141.907Z" fill="#7D0AD7"/>
+<mask id="mask0_209_1413" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="239" width="36" height="36">
+<ellipse cx="17.6295" cy="256.839" rx="17.6295" ry="17.7303" fill="#EA61E5"/>
+</mask>
+<g mask="url(#mask0_209_1413)">
+<rect x="-1.51562" y="239.109" width="19.1343" height="35.4607" fill="#EA61E5"/>
+</g>
+<mask id="mask1_209_1413" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="297" width="36" height="37">
+<ellipse cx="17.6295" cy="315.336" rx="17.6295" ry="17.7303" fill="#7D0AD7"/>
+</mask>
+<g mask="url(#mask1_209_1413)">
+<rect x="-1.51562" y="297.606" width="19.1343" height="35.4607" fill="#7D0AD7"/>
+</g>
+</svg>
